@@ -3,7 +3,6 @@
 '''
 from tensorflow.keras.layers import *
 from tensorflow.keras.models import *
-from tensorflow.keras.applications.mobilenet_v2 import MobileNetV2
 
 
 # 空间注意力模块
